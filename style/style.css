@@ -1,0 +1,16 @@
+#start-button {
+    color: black;
+    font-size: 20px;
+}
+
+body {
+    color:honeydew;
+    background-color: #312E2B;
+    text-align: center;
+    font-family: sans-serif;
+    justify-content: center;
+}
+
+.board{
+    background-color: green;
+}
